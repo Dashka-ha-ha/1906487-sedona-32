@@ -1,7 +1,7 @@
-# Личный проект «Седона»
+Личный проект «Седона»
 
-* Студент: [Дарья](https://up.htmlacademy.ru/htmlcss/32/user/1906487).
-* Наставник: `Неизвестно`.
+Студент: [Дарья](https://up.htmlacademy.ru/htmlcss/32/user/1906487).
+Наставник: [Иван Бессалов](https://htmlacademy.ru/profile/lvov).
 
 ---
 
